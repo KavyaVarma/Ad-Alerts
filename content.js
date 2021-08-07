@@ -47,7 +47,7 @@ sponsored_by_regexes.forEach( regex => {
             if(matches[1].length > 30 )
                 matches[1] = matches[1].split(" ")[0]
             sponsors.push(matches[1]);
-            likelihood += 70;
+            likelihood += 65;
         }
     }
 });
