@@ -1,0 +1,16 @@
+.card {
+    margin: 20px; 
+    margin-right: 200px;
+    width: 50%;
+}
+.progress {
+    margin: 20px; 
+}
+
+.sponsored-probablity {
+    margin: 20px;
+}
+
+#probability-bar {
+    background-color: green;
+}
