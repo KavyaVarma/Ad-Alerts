@@ -1,13 +1,13 @@
-# Ad-Alerts
+# Sponsor Check
 A chrome extension that evaluates the likelihood of a web article being sponsored content
 
-### Sample Ad Alerts
-![Sample Ad Alert 1](https://github.com/KavyaVarma/Ad-Alerts/blob/master/sample_images/ad_alert_sample_1.PNG)
+### Sample Sponsor-Check
+![Sample Sponsor Check 1](https://github.com/KavyaVarma/Ad-Alerts/blob/master/sample_images/ad_alert_sample_1.PNG)
 &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
-![Sample Ad Alert 2](https://github.com/KavyaVarma/Ad-Alerts/blob/master/sample_images/ad_alert_sample_2.PNG)
+![Sample Sponsor Check 2](https://github.com/KavyaVarma/Ad-Alerts/blob/master/sample_images/ad_alert_sample_2.PNG)
 
 ### Usage
 1. Fork and clone the repository
